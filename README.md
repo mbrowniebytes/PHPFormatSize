@@ -1,6 +1,6 @@
 # PHPFormatSize
 
-Simple PHP formater for bytes
+Simple PHP formatter for bytes
 
 ```
 $this->formatSize = new FormatSize();
